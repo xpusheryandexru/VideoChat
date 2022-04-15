@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "528969755515",
+    "project_id": "fir-rtc-4aaca",
+    "storage_bucket": "fir-rtc-4aaca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528969755515:android:ac32856e55646b75ec6bde",
+        "android_client_info": {
+          "package_name": "com.example.firebasertcandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528969755515-lbmlnr9k0kpqppmejrsidplotjt5p46l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRuyRDZm_4wPr-7ZSXnDYwDl0Dk9oSfJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528969755515-lbmlnr9k0kpqppmejrsidplotjt5p46l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

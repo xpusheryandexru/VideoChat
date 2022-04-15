@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VideoChat</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Rooms</string>
+    <string name="menu_log">Log</string>
+    <string name="zz_click_add">Please create the first room \n in the web version</string>
+    <string name="zz_dialog_select_active_url">Select an active URI</string>
+    <string name="zz_dialog_select_active_url_not_found_uri">Please create the first room in the web version</string>
+    <string name="zz_fragment_home_chat_finish">chat is over</string>
+</resources>
